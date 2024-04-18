@@ -66,6 +66,7 @@ a {
     flex-flow: column wrap;
     flex: 1 4 50%;
     align-items: start;
+    /* justify-content: space-between; */
 }
 
 .right-hero-block {
@@ -102,6 +103,7 @@ button {
     font-size: 18px;
     padding: 8px 32px;
     border-radius: 8px;
+    /* align-self: flex-end; */
 }
 
 /* Info part */
